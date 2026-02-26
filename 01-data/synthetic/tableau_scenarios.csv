@@ -1,0 +1,5 @@
+Scenario,Reliability_Pct,Vessels_Delayed,SLA_Penalty_M,Idle_Cost_M,ROI_M
+Baseline (Crisis),83.3,94,14.54,26.74,0.0
+Slow-Steam Only,88.0,55,9.5,16.0,9.0
+Priority Berthing Only,86.0,62,8.2,18.0,7.0
+Hybrid (Optimized),92.9,28,4.8,9.0,19.23
