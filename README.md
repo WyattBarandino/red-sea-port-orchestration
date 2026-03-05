@@ -113,7 +113,6 @@ in `01-data/README.md`.
 
 ## Author
 
-**Wyatt Barandino** — Strategy & Operations | Logistics Analysis  
+**Wyatt Barandino** — Strategy & Operations
 [LinkedIn](https://www.linkedin.com/in/wyatt-barandino-301897382) ·
-[GitHub](https://github.com/WyattBarandino) ·
 wyattrbarandino@gmail.com
