@@ -113,6 +113,6 @@ in `01-data/README.md`.
 
 ## Author
 
-**Wyatt Barandino** — Strategy & Operations Analyst
+**Wyatt Barandino** — Data Analyst
 [LinkedIn](https://www.linkedin.com/in/wyatt-barandino-301897382) ·
 wyattrbarandino@gmail.com
