@@ -54,9 +54,9 @@ The model covers one terminal. The scheduling logic scales across APM Terminals'
 
 ```
 red-sea-port-orchestration/
-├── index.html                        # Interactive dashboard (GitHub Pages)
+├── index.html                        # Interactive dashboard — glassmorphism reskin, Maersk palette (GitHub Pages)
 ├── README.md                         # This file
-├── EXECUTIVE_SUMMARY.md              # Standalone executive brief
+├── RED_SEA_SCENARIO_BRIEF.pdf         # Standalone scenario analysis brief (12pp, Maersk palette)
 ├── LICENSE                           # MIT
 │
 ├── 01-data/
@@ -132,8 +132,8 @@ Standalone chart generator. Produces all five publication-quality figures at 200
 !python 03_visualizations.py
 ```
 
-### `EXECUTIVE_SUMMARY.md`
-Standalone brief covering the situation (dual-route convergence crisis), the finding ($19.23M recovered), the three intervention levers, and the strategic implication for Maersk's Gemini Cooperation. Includes the full scenario comparison table and model parameters.
+### `RED_SEA_SCENARIO_BRIEF.pdf`
+Twelve-page scenario analysis brief covering the situation (dual-route convergence crisis), the finding ($19.23M recovered), the three intervention levers, strategic implication for Maersk's Gemini Cooperation, implementation roadmap, and methodology. Maersk color palette throughout. Includes full scenario comparison table, scale extrapolation, and model parameters.
 
 ---
 
