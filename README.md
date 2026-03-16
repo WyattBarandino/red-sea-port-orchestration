@@ -56,7 +56,7 @@ The model covers one terminal. The scheduling logic scales across APM Terminals'
 red-sea-port-orchestration/
 ├── index.html                        # Interactive dashboard (GitHub Pages)
 ├── README.md                         # This file
-├── EXECUTIVE_SUMMARY.md              # Standalone brief for recruiters
+├── EXECUTIVE_SUMMARY.md              # Standalone executive brief
 ├── LICENSE                           # MIT
 │
 ├── 01-data/
@@ -133,7 +133,7 @@ Standalone chart generator. Produces all five publication-quality figures at 200
 ```
 
 ### `EXECUTIVE_SUMMARY.md`
-Standalone brief for recruiters and hiring managers. Covers the situation (dual-route convergence crisis), the finding ($19.23M recovered), the three intervention levers, and the strategic implication for Maersk's Gemini Cooperation. Includes the full scenario comparison table and model parameters.
+Standalone brief covering the situation (dual-route convergence crisis), the finding ($19.23M recovered), the three intervention levers, and the strategic implication for Maersk's Gemini Cooperation. Includes the full scenario comparison table and model parameters.
 
 ---
 
