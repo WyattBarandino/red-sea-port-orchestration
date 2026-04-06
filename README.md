@@ -54,9 +54,9 @@ The model covers one terminal. The scheduling logic scales across APM Terminals'
 
 ```
 red-sea-port-orchestration/
-├── index.html                        # Interactive dashboard — glassmorphism reskin, Maersk palette (GitHub Pages)
+├── index.html                        # Interactive dashboard
 ├── README.md                         # This file
-├── RED_SEA_SCENARIO_BRIEF.pdf         # Standalone scenario analysis brief (12pp, Maersk palette)
+├── RED_SEA_SCENARIO_BRIEF.pdf         # Standalone scenario analysis brief
 ├── LICENSE                           # MIT
 │
 ├── 01-data/
@@ -89,7 +89,7 @@ red-sea-port-orchestration/
 Key design decisions:
 - Vessel arrivals modelled using Poisson distribution calibrated to Rotterdam's publicly reported peak throughput of approximately 52 vessels per week
 - Crisis window (Weeks 5–9) reflects the documented 66% reduction in Suez Canal traffic during the Red Sea disruption, which forced mass Cape rerouting and created the dual-route convergence event
-- A non-linear efficiency cliff is applied above 80% yard utilization, consistent with published terminal congestion research — crane productivity degrades from 30 to 14.8 moves per hour at the crisis floor
+- A non-linear efficiency cliff is applied above 80% yard utilization, consistent with published terminal congestion research. Crane productivity degrades from 30 to 14.8 moves per hour at the crisis floor
 
 ### `01-data/synthetic/heatmap_data.csv`
 90 daily aggregate rows. Fields: date, day name, week number, month, average wait time, max wait time, vessel count, vessels delayed, and crisis week flag (`Is_Crisis_Week = 1` for Weeks 5–9).
