@@ -2,7 +2,7 @@
 
 **$19.23M recovered per quarter. Zero new infrastructure.**
 
-A scheduling optimization case study built around the Q1 2026 dual-route convergence surge at APM Terminals Rotterdam MVII — and a direct response to the pattern repeating as US-Iran tensions push carriers back off the Suez corridor in 2026.
+A scheduling optimization case study built around the Q1 2026 dual-route convergence surge at APM Terminals Rotterdam MVII and a direct response to the pattern repeating as US-Iran tensions push carriers back off the Suez corridor in 2026.
 
 [**→ View Interactive Dashboard**](https://wyattbarandino.github.io/red-sea-port-orchestration/) · [**LinkedIn**](https://linkedin.com/in/wyattbarandino)
 
@@ -12,7 +12,7 @@ A scheduling optimization case study built around the Q1 2026 dual-route converg
 
 Red Sea Port Orchestration is a FinOps-style scheduling analysis applied to maritime logistics. It simulates a realistic Q1 2026 operational crisis at APM Terminals Rotterdam MVII, models four intervention scenarios against an unmanaged baseline, and produces a scheduling playbook that recovers $19.23M in quarterly value without capital expenditure.
 
-The model tests a single question: how much of a $41.28M financial exposure is recoverable from *existing* 2.7M TEU capacity through scheduling precision alone — before a euro of the €1B expansion program is needed?
+The model tests a single question: how much of a $41.28M financial exposure is recoverable from *existing* 2.7M TEU capacity through scheduling precision alone before a euro of the €1B expansion program is needed?
 
 ---
 
@@ -141,7 +141,7 @@ Twelve-page scenario analysis brief covering the situation (dual-route convergen
 
 **Slow-steaming coordination** smooths the arrival curve before it becomes congestion. Cape-routed vessels are delayed 12 hours during any week where projected arrivals exceed 42 (85% of the 49-vessel weekly threshold). This prevents the stacking effect that drove four consecutive weeks over capacity during the crisis window.
 
-**Priority berthing** protects the highest-value cargo from delay cascades. Vessels carrying pharmaceutical, perishable, or time-critical freight are fast-tracked regardless of arrival sequence, recovering $9.74M in SLA penalty avoidance — a 67% reduction against baseline.
+**Priority berthing** protects the highest-value cargo from delay cascades. Vessels carrying pharmaceutical, perishable, or time-critical freight are fast-tracked regardless of arrival sequence, recovering $9.74M in SLA penalty avoidance, a 67% reduction against baseline.
 
 **Predictive yard utilization capping** prevents the gridlock that occurs above 85% utilization. By pre-positioning empty containers outbound during surge weeks, yard utilization is held below 80%, keeping crane throughput above the productivity floor that triggers cascading delays.
 
@@ -153,7 +153,7 @@ The model was built during the first Red Sea crisis. It became a live reference 
 
 In December 2025, Maersk's Sebarok transited the Bab el-Mandeb for the first time in nearly two years. By February 28, 2026, in response to US and Israeli strikes on Iran, the Houthis announced resumed attacks. Maersk withdrew voyages. CMA CGM reversed three services back to the Cape of Good Hope.
 
-As of March 2026, the corridor remains unstable. Any carrier that spent the January-February window recalibrating back toward Suez — reassigning capacity, resetting SLA commitments, adjusting terminal yard plans — is now facing the same convergence problem this model addresses. The pattern is repeating. The analytical framework here was built for exactly this frequency of disruption.
+As of March 2026, the corridor remains unstable. Any carrier that spent the January-February window recalibrating back toward Suez reassigning capacity, resetting SLA commitments, adjusting terminal yard plans is now facing the same convergence problem this model addresses. The pattern is repeating. The analytical framework here was built for exactly this frequency of disruption.
 
 ---
 
